@@ -6,18 +6,43 @@
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este repositório reúne a documentação, as evidências e, quando aplicável, o código-fonte (Será Postado Posteriormente) do projeto de planejamento e implementação de infraestrutura de rede e aplicação web segura para uma ONG.
+
+## Visão geral
+
+O projeto foi desenvolvido em quatro etapas, contemplando planejamento de infraestrutura, servidores locais e em nuvem, monitoramento centralizado e mecanismos de segurança da informação.
+
+## Objetivo
+
+Planejar e validar uma solução integrada para apoiar as operações administrativas e sociais de uma ONG com matriz, filiais e usuários remotos.
+
+## Tecnologias utilizadas
+
+- AWS
+- Packet Tracer
+- Zabbix
+- Docker
+- Flask
+- SQLAlchemy
+- SQLite
+- Nginx
+- Gunicorn
+- OWASP ZAP
+- Trivy
+- Docker Scout
+- testssl.sh
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* João Gabriel R. Costa
+* Lucas Souza Diniz
+* Lucas Gentil Lucena
+* Victor Ribeiro Boechat
+* Amanda Costa Dutra
+* Guilherme Botelho da Silva
 
 ## Orientador
 
-* Nome completo do professor 1
+* Alexandre Teixeira
 
 
